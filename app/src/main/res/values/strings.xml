@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ZedPe</string>
+
+    <string name="accessibility_service_label">ZedPe Accessibility Assistant</string>
+    <string name="accessibility_service_description">
+        IMPORTANT: Replace this text!\n\n
+        Clearly and truthfully describe the specific accessibility features ZedPe provides
+        to users with disabilities that require this service to function.
+        For example: "Enables enhanced screen reading for transaction details within ZedPe for visually impaired users."
+        or "Provides alternative input methods for navigating ZedPe for users with motor impairments."
+        Generic descriptions or reasons unrelated to direct accessibility aid for users with disabilities
+        will likely violate Google Play policies.
+    </string>
+
+    <string name="rationale_dialog_title">Accessibility Permission Required</string>
+    <string name="rationale_dialog_message_part1">
+        ZedPe uses Accessibility features to [**YOU MUST FILL THIS IN: Clearly explain the *legitimate accessibility benefit* your app (ZedPe) provides here. This is CRITICAL for users and Google Play policy compliance.**].
+    </string>
+    <string name="rationale_dialog_message_part2">
+        To enable this, please go to Settings and turn on the service for ZedPe. If you do not allow this, the app will exit.
+    </string>
+    <string name="rationale_button_go_to_settings">Go to Settings</string>
+    <string name="rationale_button_not_allow_exit">Not Allow &amp; Exit</string>
+
+</resources>
